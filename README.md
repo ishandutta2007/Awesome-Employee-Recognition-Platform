@@ -62,9 +62,9 @@ The table below details commercial employee recognition solutions, sorted by **C
 
 ## 💻 Open-Source GitHub Projects
 
-The following open-source repos and tools provide self-hosted kudos, Slack/Teams bots, or HR workspace solutions. Sorted by **GitHub Stars** in descending order.
+The following open-source repos and tools provide self-hosted kudos, Slack/Teams bots, or HR workspace solutions. Sorted by **GitHub_Stars** in descending order.
 
-| Project 📦 | Stars ⭐️ | Description & Core Stack 🛠️ |
+| Project 📦 | GitHub_Stars ⭐️ | Description & Core Stack 🛠️ |
 | :--- | :--- | :--- |
 | **[Meeds](https://github.com/Meeds-io/meeds)** | [<img src="https://img.shields.io/github/stars/Meeds-io/meeds?style=social&color=white" alt="Stars"/>](https://github.com/Meeds-io/meeds/stargazers) | Decentralized engagement and recognition platform using open tokens & kudos gamification. |
 | **[Praise](https://github.com/givepraise/praise)** | [<img src="https://img.shields.io/github/stars/givepraise/praise?style=social&color=white" alt="Stars"/>](https://github.com/givepraise/praise/stargazers) | Community intelligence and peer recognition system built for transparent praise & rewards. |
@@ -113,3 +113,12 @@ If you find this repository helpful for your organization, culture team, or HR t
 <p align="center">
   <b>Made with ❤️ for people leaders, culture teams, and open-source HR advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Employee-Recognition-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Employee-Recognition-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Employee-Recognition-Platform_growth.svg">
+  </picture>
+</a>
